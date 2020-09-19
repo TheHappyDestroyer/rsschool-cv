@@ -10,7 +10,9 @@
 **Telegram:** [Andrey_Tolmateev](https://t.me/Andrey_Tolmateev)
 
 ## About me ##
-I have a high stress tolerance, I can work in multitasking mode and in a team. Hobbies: reading books, watching TV shows, walking with friends.
+I have a high stress tolerance, I can work in multitasking mode and in a team. 
+My goal is to create new things and improve the old ones. 
+Hobbies: reading books, watching TV shows, walking with friends.
 
 ## Skills: ##
 * Basic knowledge: 
