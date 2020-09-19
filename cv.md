@@ -6,6 +6,7 @@
 
 
 **Email:** andreytolmateev@gmail.com
+**VK:** https://vk.com/id159638576
 **Tel:** +7(963)3276040
 **Telegram:** [Andrey_Tolmateev](https://t.me/Andrey_Tolmateev)
 
