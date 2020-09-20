@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Tolmateev Andrey</title>
+    </head>
+    <body>
+            <img src="https://i.redd.it/mljdhhsii7u21.jpg" alt="My favorite avatar" width ='300' height="300">
+
+            <h2>My contacts:</h2>
+            <p>Email: andreytolmateev@gmail.com</p>
+            <p>Tel: +7(963)3276040</p>
+            <p>Telegram: <a href='https://t.me/Andrey_Tolmateev'>Andrey_Tolmateev</a></p>
+            <p>Saint-Peterburg, Russia</p>
+
+        <h2>About me </h2>
+            <p>I have a high stress tolerance, I can work in multitasking mode and in a team. </p>
+            <p>Hobbies: reading books, watching TV shows, walking with friends.</p>
+        <h2>Skills:</h2>
+
+            <p>Basic knowledge:</p>
+            <ul>
+                <li>C++</li>
+                <li>Pascal</li>
+                <li>C</li>
+                <li>HTML5</li>
+                <li>CSS3</li>
+                <li>JavaScript</li>
+            </ul>
+            <p>Basic knowledge of Ide visual studio.</p>
+            <p>Basic Linux skills</p>
+
+        <h2>Code example</h2>
+            <pre>
+                <code>
+                    #include<iostream>
+
+                        using namespace std;
+                        
+                        unsigned EraseGroupBits(unsigned x, int n1, int n2)
+                        {
+                            n1 = x >> n1 << n1;                  			 
+                            n2 = x >> (n2 + 1) << (n2 + 1);
+                            n2 = n1 ^ n2;
+                            x = x & ~n2;
+                            return x;
+                        }
+                        
+                        int main() 
+                        {
+                            cout << hex << EraseGroupBits(0xffff, 4, 11) << endl;
+                            return 0;
+                        }
+                </code>
+            </pre>
+
+        <h2>Education</h2>
+            <pre>Peter the Great St.Petersburg Polytechnic University (SPbPU).</pre>
+        <h2>Languages</h2>
+            <p>Basic level of language proficiency.</p>
